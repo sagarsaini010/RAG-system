@@ -55,7 +55,7 @@ const result = await index.query({
 
   const prompt = `
 You are a helpful assistant.
-Answer the question ONLY using the provided context.
+Answer the question in detail using the provided context.
 If answer is not in context, say "I don't know".
 
 Context:
